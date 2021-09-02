@@ -39,7 +39,7 @@ def test_step(model, images, labels, loss_object, test_loss, test_accuracy):
     test_accuracy(labels, prediction)
 
 
-# Import and organize dataset (데이터셋 가져오고 정리)
+# Import and organize dataset (데이터셋 가져오고 정리).
 mnist = tf.keras.datasets.mnist
 
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
