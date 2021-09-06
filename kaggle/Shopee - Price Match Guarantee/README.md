@@ -17,9 +17,15 @@
 
 ### 결과화면
 
+<<<<<<< HEAD:kaggle/Shopee - Price Match Guarantee/README.md
 ![결과](screanshot/result.png)
 
 ![결과](screanshot/score.png)
+=======
+![결과](/Users/sengjeawang/Desktop/ML_study/kaggle/Shopee/screanshot/result.png)
+
+![결과](/Users/sengjeawang/Desktop/ML_study/kaggle/Shopee/screanshot/score.png)
+>>>>>>> 9d9b7ead1b16adbf5c430c3efa5157b85c6401f4:kaggle/Shopee/README.md
 
 ----------
 
