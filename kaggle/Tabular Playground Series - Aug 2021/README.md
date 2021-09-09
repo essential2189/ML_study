@@ -53,6 +53,13 @@
 
 -------------
 
+### 실험 환경 & 소요 시간
+
+* 실험 환경 : kaggle python nootbook (GPU)
+* 소요 시간 : 약 1시간 20분
+
+-----------
+
 ### 코드
 
 ['./Tabular Playground Series - Aug 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Shopee%20-%20Price%20Match%20Guarantee/Shopee%20-%20Price%20Match%20Guarantee.py)
