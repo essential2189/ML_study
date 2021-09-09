@@ -62,7 +62,7 @@
 
 ### 코드
 
-['./Tabular Playground Series - Aug 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Shopee%20-%20Price%20Match%20Guarantee/Shopee%20-%20Price%20Match%20Guarantee.py)
+['./Tabular Playground Series - Aug 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
 
 -----------
 
