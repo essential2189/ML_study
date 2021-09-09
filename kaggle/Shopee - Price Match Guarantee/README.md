@@ -17,15 +17,9 @@
 
 ### 결과화면
 
-<<<<<<< HEAD:kaggle/Shopee - Price Match Guarantee/README.md
 ![결과](screanshot/result.png)
 
 ![결과](screanshot/score.png)
-=======
-![결과](/Users/sengjeawang/Desktop/ML_study/kaggle/Shopee/screanshot/result.png)
-
-![결과](/Users/sengjeawang/Desktop/ML_study/kaggle/Shopee/screanshot/score.png)
->>>>>>> 9d9b7ead1b16adbf5c430c3efa5157b85c6401f4:kaggle/Shopee/README.md
 
 ----------
 
@@ -42,7 +36,7 @@
 
 ### 코드
 
-./Shopee - Price Match Guarantee.py
+['./Shopee - Price Match Guarantee.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Shopee%20-%20Price%20Match%20Guarantee/Shopee%20-%20Price%20Match%20Guarantee.py)
 
 -----------
 
@@ -51,6 +45,7 @@
 [NFnets](https://arxiv.org/abs/2102.06171)
 
 [EfficientNet](https://arxiv.org/abs/1905.11946)
+
 
 
 
