@@ -12,13 +12,13 @@ TEST_SIZE = 0.2
 TIMEOUT = 3*3600
 TARGET_NAME = 'loss'
 
-train_data = pd.read_csv('../input/tabular-playground-series-aug-2021/train.csv')
+train_data = pd.read_csv('input/tabular-playground-series-aug-2021/train.csv')
 print(train_data.head())
 
-test_data = pd.read_csv('../input/tabular-playground-series-aug-2021/test.csv')
+test_data = pd.read_csv('input/tabular-playground-series-aug-2021/test.csv')
 print(test_data.head())
 
-samp_sub = pd.read_csv('../input/tabular-playground-series-aug-2021/sample_submission.csv')
+samp_sub = pd.read_csv('input/tabular-playground-series-aug-2021/sample_submission.csv')
 print(samp_sub.head())
 
 
