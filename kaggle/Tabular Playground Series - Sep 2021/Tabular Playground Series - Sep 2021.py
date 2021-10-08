@@ -413,7 +413,7 @@ score = get_auc(y_valid, y_hat_blend)
 print(f"Overall Validation Score | Simple Blend: {score}")
 print('::'*20)
 
-% % time
+%%time
 from sklearn.linear_model import LogisticRegression
 
 X_meta = oof_predictions.drop(columns=['y_valid']).copy()
