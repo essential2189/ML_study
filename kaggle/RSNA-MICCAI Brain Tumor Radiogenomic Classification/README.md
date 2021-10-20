@@ -78,7 +78,7 @@
 
 ### 코드
 
-['./Tabular Playground Series - Sep 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Sep%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
+['./RSNA-MICCAI Brain Tumor Radiogenomic Classification.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/RSNA-MICCAI%20Brain%20Tumor%20Radiogenomic%20Classification/RSNA-MICCAI%20Brain%20Tumor%20Radiogenomic%20Classification.py)
 
 -----------
 
