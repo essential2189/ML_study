@@ -19,7 +19,7 @@
 
 ![결과](screanshot/score.png)
 
-![결과](screanshot/leaderboard.png)
+![결과](screanshot/leaderboard.PNG)
 
 ----------
 
